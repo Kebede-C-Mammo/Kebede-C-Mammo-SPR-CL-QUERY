@@ -1,0 +1,7 @@
+commit 04bd53b76714f4e455c4a34de70607cbdbfc1fb8
+Author: Kebede Mammo <mkebede2020@gmail.com>
+Date:   Wed Jan 10 01:00:55 2024 +0000
+
+    Complete Spring Query Lab.
+
+ 1 file changed, 5 insertions(+), 4 deletions(-)
